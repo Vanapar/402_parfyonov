@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "prac1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\\\c#\\\\Practicum7sem\\\\prac1\\\\hobbit.txt\""
+    }
+  }
+}
